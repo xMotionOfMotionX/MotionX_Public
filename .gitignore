@@ -1,0 +1,22 @@
+.vscode/
+*.mp4
+*.MOV
+*.bag
+.DS_Store
+Related Lectures/
+donkey_39_env/
+DonkeySimMac/
+data/
+models/
+*.h5
+*.tflite
+__pycache__/
+.pytest_cache/
+src/pure_pursuit/
+src/follow_the_gap/
+follow_the_gap.py
+donkey_ftg.py
+motionx_bridge.py
+donkey/mycar/
+Socket Communication Test/
+old/
